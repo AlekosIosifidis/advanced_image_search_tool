@@ -44,6 +44,10 @@ The following models should also be installed from their respective repositories
 In case you don't wish to download the required models individually or if some models are no longer available, you can simply download [SearchTool1.zip](SearchTool1.zip), [SearchTool2.zip](SearchTool2.zip) and [SearchTool3.zip](SearchTool3.zip). These zip files contains all of the code, dll files and models necessary to run the program. Then, you need to extract the contents of all 3 zip files under the same working directory.
 
 ## Extracting Data
-Before running the search tool, you need to create a folder under the working directory and put all of your image files under that folder. Then, you need to run the script "extract_information_UI.py".
+Before running the search tool, you need to create a folder under the working directory and put all of your image files under that folder. Then, you need to run the script "extract_information_UI.py". The UI will look like this:
+
+<p float="left">
+  <img src="https://github.com/mertseker-dev/advanced_image_search_tool/blob/main/extract_information.JPG" width="400" />
+</p>
 
 
