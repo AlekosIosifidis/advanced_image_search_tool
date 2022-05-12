@@ -55,7 +55,7 @@ Once the folder is chosen, the folder's name will appear with green text under t
 
 You can then choose to extract individual information by clicking one of the 12 buttons (from "Face" until "Main Characters") or you can click on "Extract All" to extract all of them at once.
 
-The extracted information will be stored in both .csv and .pickle format. You can find them under data_csv/{your_image_folder} and data_pickle/{your_image_folder}.
+The extracted information will be stored in both .csv and .pickle format. You can find them under "data_csv/{your_image_folder}" and "data_pickle/{your_image_folder}".
 
 ## Using The Search Tool
 
