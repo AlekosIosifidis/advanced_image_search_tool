@@ -46,8 +46,14 @@ In case you don't wish to download the required models individually or if some m
 ## Extracting Data
 Before running the search tool, you need to create a folder under the working directory and put all of your image files under that folder. Then, you need to run the script "extract_information_UI.py". The UI will look like this:
 
-<p float="left">
-  <img src="https://github.com/mertseker-dev/advanced_image_search_tool/blob/main/extract_information.JPG" width="400" />
+<p float="center">
+  <img src="https://github.com/mertseker-dev/advanced_image_search_tool/blob/main/extract_information.JPG" width="100" />
 </p>
 
+From here, you first need to click on "Choose Folder" and choose the folder that contains your images. Note that this folder should be put under the working directory.
+Once the folder is chosen, the folder's name will appear with green text under the "Choose Folder" button.
+
+You can then choose to extract individual information by clicking one of the 12 buttons (from "Face" until "Main Characters") or you can click on "Extract All" to extract all of them at once.
+
+The extracted information will be stored in both .csv and .pickle format. You can find them under data_csv/{your_image_folder} and data_pickle/{your_image_folder}.
 
