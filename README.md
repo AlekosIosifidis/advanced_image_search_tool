@@ -29,6 +29,7 @@ The code requires the following libraries to be installed:
 -  transformers 4.9.1
 
 The code requires OpenPose to be installed. Refer to https://github.com/CMU-Perceptual-Computing-Lab/openpose for installation instructions.
+Nvidia CUDA (recommended version 10.1) should also be installed.
 
 The following models should also be installed from their respective repositories:
 
