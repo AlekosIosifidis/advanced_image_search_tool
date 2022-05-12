@@ -41,6 +41,6 @@ The following models should also be installed from their respective repositories
 - resnet18_places365.pth.tar (https://github.com/CSAILVision/places365)
 
 ## Easy Install
-In case you don't wish to download the required models individually or if some models are no longer available, you can simply install [a relative link](SearchTool1.zip)
+In case you don't wish to download the required models individually or if some models are no longer available, you can simply download [SearchTool1.zip](SearchTool1.zip), [SearchTool2.zip](SearchTool2.zip) and [SearchTool3.zip](SearchTool3.zip). Then, you need to extract the contents of all 3 zip files under the same working directory.
 
 
