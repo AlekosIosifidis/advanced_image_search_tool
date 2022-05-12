@@ -6,6 +6,7 @@ Machine learning based advanced image search tool
 3. [Extracting Data](#extracting-data)
 4. [Using the Search Tool](#using-search-tool)
 5. [Viewing Results](#viewing-results)
+6. [Working with Multiple Image Directories] (#multiple-directories)
 
 ## Getting Started
 The code requires the following libraries to be installed:
