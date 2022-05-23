@@ -1,5 +1,5 @@
 # advanced_image_search_tool
-Machine learning based advanced image search tool
+Machine learning based advanced image search tool. Note that this an early version of the toolkit and more features and updates will be soon released.
 ## Contents
 1. [Getting Started](#getting-started)
 2. [Easy Install](#easy-install)
